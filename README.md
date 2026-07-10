@@ -18,8 +18,7 @@ I’ve been refining these tweaks for years to keep my system lean and mean for 
 ### ⚡ Key Features
 * **One-Click Tweaks:** No more searching through menus. Toggle optimizations on/off instantly.
 * **Latency Focused:** Specifically tuned to minimize network and input lag.
-* **Performance Stability:** Smoother frame times and fewer random drops during intense sessions.
-* **Total Transparency:** Everything here is open-source. You see exactly what changes are being made to your system.
+* **Streamlined UI:** This GUI manages the [Windows-Tweaks repository](https://github.com/kubsonxtm/Windows-Tweaks) for you—instead of running files manually, the program handles the download and execution of my curated tweaks directly.
 
 ---
 
