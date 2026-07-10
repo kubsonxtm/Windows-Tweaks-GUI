@@ -1,9 +1,11 @@
-# 🚀 Windows Tweaks GUI
-
-Stop messing around with registry files and batch scripts. **Windows Tweaks GUI** brings all those performance optimizations into a clean, easy-to-use interface. Designed to cut latency and stabilize your FPS without the headache.
+<h1 align="center">🚀 Windows Tweaks GUI</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kubsonxtm/tweaks/main/images/Windows%20Tweaks%20GUI.png" alt="Windows Tweaks GUI" style="width:700px; border-radius:50%;">
+  Stop messing around with registry files and batch scripts. <b>Windows Tweaks GUI</b> brings all those performance optimizations into a clean, easy-to-use interface. Designed to cut latency and stabilize your FPS without the headache.
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kubsonxtm/tweaks/main/images/Windows%20Tweaks%20GUI.png" alt="Windows Tweaks GUI" width="700">
 </p>
 
 ---
